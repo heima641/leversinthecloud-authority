@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Levers in the Cloud
+  site: 'https://leversinthecloud.com'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: Levers in the Cloud
+    template: '%s — Levers in the Cloud'
+  description: "Authority site for business technology tools and platforms that consistently earn excellent customer reviews"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Levers in the Cloud
     images:
       - url: '~/assets/images/default.png'
         width: 1200
