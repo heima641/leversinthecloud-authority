@@ -3,13 +3,11 @@ title: 'About Levers in the Cloud'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-# About Levers in the Cloud
-
-You've bought the software.
-Your team has been trained.
-The dashboard looks impressive.
-But six months later, you're still asking: "Where's the growth?"
-After three decades managing teams, budgets, and business growth initiatives, I started Levers in the Cloud because I was tired of watching good business leaders invest in tools that check boxes but don't move needles.
+You've bought the software.  
+Your team has been trained.  
+The dashboard looks impressive.  
+But six months later, you're still asking: "Where's the growth?"  
+After three decades managing teams, budgets, and business growth initiatives, I started Levers in the Cloud because I was tired of watching good business leaders invest in tools that check boxes but don't move needles.  
 This site exists to help you find software that actually drives profitable growth—not just efficient task completion.
 
 ## Our Story
