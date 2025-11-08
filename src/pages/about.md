@@ -8,7 +8,10 @@ Your team has been trained.
 The dashboard looks impressive.  
 But six months later, you're still asking: "Where's the growth?"  
 After three decades managing teams, budgets, and business growth initiatives, I started Levers in the Cloud because I was tired of watching good business leaders invest in tools that check boxes but don't move needles.  
-This site exists to help you find software that actually drives profitable growth—not just efficient task completion.
+This site exists to help you find software that actually drives profitable growth—not just efficient task completion.  
+<br />
+<br />
+<strong>The 'Levers In The Cloud' team works to demonstrate how modern cloud software platforms are levers that enable each of us to move the world forward.</strong>  
 
 ## Our Story
 
